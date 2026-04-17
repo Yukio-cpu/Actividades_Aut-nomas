@@ -1,4 +1,6 @@
-Las Actividades estan enumeradas como act_Unidad_Tema
+# Actividades Autónomas Python
+
+Las Actividades estan enumeradas como Nombre_Apellido_Unidad_Semana
 
 Ejemplo : act_1_2.cpp
 
